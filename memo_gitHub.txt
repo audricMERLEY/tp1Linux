@@ -1,0 +1,28 @@
+Memo pour git hub :
+
+
+demander le status :
+->A quoi ça sert :
+
+ajouter des fichiers :
+-A quoi ça sert :
+-Les differentes sorties possibles :
+
+enlever des fichiers :
+
+Commit des fichiers :
+-A quoi ça sert :
+-Les differentes sorties possibles :
+
+
+Pousser dans une branche :
+-A quoi ça sert :
+-Les différentes sorties possbiles :
+
+Récupérer une branche :
+-A quoi ça sert :
+-Les problèmes possibles avecla branche actuelle :
+
+
+Créer une nouvelle branche :
+-A quoi ça sert :
